@@ -10,8 +10,8 @@ Welcome to my **Java** repository! This is where I'll be uploading and organizin
 - **Projects/**: Mini-projects to showcase concepts in practice.
 
 ## 🗓️ Current Progress
-- **Week 1**: Basics of Java, working with variables, loops, and functions.
-- **Week 2**: Object-Oriented Programming, classes, and inheritance.
+- **Week 1**: Basics of Java, working with variables.
+- **Week 2**: Loops, switch statements, and logical operators.
 - More coming soon! 🚀
 
 
