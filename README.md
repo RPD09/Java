@@ -11,7 +11,7 @@ Welcome to my **Java** repository! This is where I'll be uploading and organizin
 
   
 ## 🛠️ Projects
-- **[Vehicle Operations System](https://github.com/RPD09/Kotlin/tree/main/Projects/Vehicle)**: A simple system to manage different types of vehicles, demonstrating object-oriented principles such as inheritance, polymorphism, and interface implementation in Kotlin. The project includes classes for `Car` and `Motorcycle`, both inheriting from a base `Vehicle` class, and showcases how each vehicle type behaves differently while sharing common functionality.
+- soon
 
 ---
 
