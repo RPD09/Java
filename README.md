@@ -11,7 +11,7 @@ Welcome to my **Java** repository! This is where I'll be uploading and organizin
 
   
 ## 🛠️ Projects
-- soon
+- Soon
 
 ---
 
